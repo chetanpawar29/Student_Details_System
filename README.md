@@ -1,4 +1,4 @@
-# 🎓 Student Detail System
+# 🎓 Student Details System
 🚀 Console-Based Application | 🌱 Built with Spring Framework + ORM + Hibernate Template + XAMPP
 
 ## 📖 About the Project
