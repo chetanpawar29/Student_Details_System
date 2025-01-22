@@ -141,7 +141,7 @@ public class App
 								   student.setStdName(stdName);;
 								   studentDao.updateStudent(student);
 								  
-								   
+								   System.out.println("\n---------------------------------------------------");
 								   break;
 								   
 							case 2:
